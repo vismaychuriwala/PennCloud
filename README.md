@@ -2,6 +2,8 @@
 
 **PennCloud** is a robust, highly available distributed key-value store implemented in C++. Designed as a foundational cloud service, it supports applications like email and file storage, demonstrating advanced concepts in distributed systems, replication, consistency, and recovery.
 
+**[Watch the Demo on Vimeo](https://vimeo.com/1105258845?share=copy)**
+
 ## System Architecture
 
 PennCloud features a three-tier distributed architecture for scalability and resilience:
